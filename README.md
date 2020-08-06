@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 <div>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1396115995">
-        <img src="https://steamuserimages-a.akamaihd.net/ugc/931562390052086513/30A965DEC8957B05877E7D89C59A02912C4F8F20/"></img>
+        <img width="25%" src="https://steamuserimages-a.akamaihd.net/ugc/931562390052086513/30A965DEC8957B05877E7D89C59A02912C4F8F20/"></img>
+        WASD Converter
+    </a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1396115995">
+        <img width="25%" src="https://steamuserimages-a.akamaihd.net/ugc/931562390052086513/30A965DEC8957B05877E7D89C59A02912C4F8F20/"></img>
         WASD Converter
     </a>
 </div>
