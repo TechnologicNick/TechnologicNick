@@ -14,8 +14,9 @@ jobs:
       - uses: TechnologicNick/steam-workshop-workflow@master
         with:
           steam_api_key: ${{ secrets.STEAM_API_KEY }}
-          workshop_items:
-            - id: 1396115995
-              github: 'https://github.com/TechnologicNick/WASD-Converter'
-
+          workshop_items: '{
+            "1396115995": {
+              "github": "https://github.com/TechnologicNick/WASD-Converter"
+            }
+          }'
 
