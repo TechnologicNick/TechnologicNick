@@ -1,0 +1,21 @@
+name: steam-workshop-workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-steam-workshop:
+    name: Update a README with information about Steam Workshop items
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: TechnologicNick/steam-workshop-workflow@master
+        with:
+          steam_api_key: ${{ secrets.STEAM_API_KEY }}
+          workshop_items:
+            - id: 1396115995
+              github: 'https://github.com/TechnologicNick/WASD-Converter'
+
+
