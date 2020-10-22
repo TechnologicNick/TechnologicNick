@@ -12,13 +12,13 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: TechnologicNick/steam-workshop-workflow@master
-        with:
-          steam_api_key: ${{ secrets.STEAM_API_KEY }}
-          workshop_items: '{
-            "1396115995": {
-              "github": "https://github.com/TechnologicNick/WASD-Converter"
-            }
-          }'
+      with:
+        steam_api_key: ${{ secrets.STEAM_API_KEY }}
+        workshop_items: '{
+          "1396115995": {
+            "github": "https://github.com/TechnologicNick/WASD-Converter"
+          }
+        }'
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update Steam Workshop item statistics
