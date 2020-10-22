@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme-with-steam-workshop:
     name: Update a README with information about Steam Workshop items
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js
