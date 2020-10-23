@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 My Steam Workshop items:
 <!-- WORKSHOP-SHOWCASE:START -->
-sample text
+
 <!-- WORKSHOP-SHOWCASE:END -->
