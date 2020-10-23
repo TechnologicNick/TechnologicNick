@@ -11,7 +11,6 @@ jobs:
     runs-on: windows-latest
     steps:
     - uses: actions/checkout@v2
-    - run: tree
     - name: Update Steam Workshop item statistics
       uses: TechnologicNick/steam-workshop-workflow@master
       with:
