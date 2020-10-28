@@ -15,26 +15,33 @@ jobs:
       uses: TechnologicNick/steam-workshop-workflow@master
       with:
         steam_api_key: ${{ secrets.STEAM_API_KEY }}
-        workshop_items: '{
-          "881254777": {
+        workshop_items: '[
+          {
+            "id": 881254777,
             "github": "https://github.com/brentbatch/The-Modpack"
           },
-          "1396115995": {
+          {
+            "id": 1396115995,
             "github": "https://github.com/TechnologicNick/WASD-Converter"
           },
-          "1394654240": {
+          {
+            "id": 1394654240,
             "github": "https://github.com/TechnologicNick/Electromagnets"
           },
-          "1428574074": {
+          {
+            "id": 1428574074,
             "github": "https://github.com/TechnologicNick/CameraControls"
           },
-          "893341654": {
+          {
+            "id": 893341654,
             "github": "https://github.com/TechnologicNick/Paintable-Lasers"
           },
-          "1616051926": {
-            "github": "https://github.com/TechnologicNick/Scrap-Guard"
+          {
+            "id": 1616051926,
+            "github": "https://github.com/TechnologicNick/Scrap-Guard",
+            "title": "Scrap Guard"
           }
-        }'
+        ]'
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
