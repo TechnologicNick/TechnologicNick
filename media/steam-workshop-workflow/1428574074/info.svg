@@ -16,7 +16,7 @@
         }
     </style>
 
-    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="./preview.png"/>
+    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="/TechnologicNick/TechnologicNick/raw/master/media\steam-workshop-workflow\1428574074/preview.png"/>
 
     <text x="185.5" y="0" class="title">
         <tspan x="185.5" dy="1.2em">Camera Controls</tspan>

@@ -16,14 +16,14 @@
         }
     </style>
 
-    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="./preview.png"/>
+    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="/TechnologicNick/TechnologicNick/raw/master/media\steam-workshop-workflow\1616051926/preview.png"/>
 
     <text x="185.5" y="0" class="title">
         <tspan x="185.5" dy="1.2em">Scrap Guard</tspan>
     </text>
     <text x="193" y="25">
-        <tspan x="193" dy="1.2em">19985 views</tspan>
-        <tspan x="193" dy="1.2em">19165 downloads</tspan>
+        <tspan x="193" dy="1.2em">19986 views</tspan>
+        <tspan x="193" dy="1.2em">19166 downloads</tspan>
         <tspan x="193" dy="1.2em">277 favorites</tspan>
     </text>
 </svg>
