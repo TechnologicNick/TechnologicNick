@@ -1,0 +1,29 @@
+<svg
+    width="424"
+    height="100"
+    viewBox="0 0 424 100"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <style>
+        text {
+            fill: black;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+
+        .title {
+            font-weight: 600;
+        }
+    </style>
+
+    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="https://steamuserimages-a.akamaihd.net/ugc/159156673339232771/F55DA5BE5745D9E8DC8ED1E83FBAE5B3DE28EEFF/"/>
+
+    <text x="185.5" y="0" class="title">
+        <tspan x="185.5" dy="1.2em">Paintable Lasers</tspan>
+    </text>
+    <text x="193" y="25">
+        <tspan x="193" dy="1.2em">19022 views</tspan>
+        <tspan x="193" dy="1.2em">45522 downloads</tspan>
+        <tspan x="193" dy="1.2em">461 favorites</tspan>
+    </text>
+</svg>

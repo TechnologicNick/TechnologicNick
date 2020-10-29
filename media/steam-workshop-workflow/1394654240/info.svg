@@ -1,0 +1,29 @@
+<svg
+    width="424"
+    height="100"
+    viewBox="0 0 424 100"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <style>
+        text {
+            fill: black;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+
+        .title {
+            font-weight: 600;
+        }
+    </style>
+
+    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="https://steamuserimages-a.akamaihd.net/ugc/931562390045288550/AFB0BCBA159CE757CFB346264A1B2807B8018484/"/>
+
+    <text x="185.5" y="0" class="title">
+        <tspan x="185.5" dy="1.2em">Electromagnets</tspan>
+    </text>
+    <text x="193" y="25">
+        <tspan x="193" dy="1.2em">31410 views</tspan>
+        <tspan x="193" dy="1.2em">46686 downloads</tspan>
+        <tspan x="193" dy="1.2em">739 favorites</tspan>
+    </text>
+</svg>

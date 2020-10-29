@@ -1,0 +1,29 @@
+<svg
+    width="424"
+    height="100"
+    viewBox="0 0 424 100"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <style>
+        text {
+            fill: black;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+
+        .title {
+            font-weight: 600;
+        }
+    </style>
+
+    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="https://steamuserimages-a.akamaihd.net/ugc/931562390052086513/30A965DEC8957B05877E7D89C59A02912C4F8F20/"/>
+
+    <text x="185.5" y="0" class="title">
+        <tspan x="185.5" dy="1.2em">WASD Converter</tspan>
+    </text>
+    <text x="193" y="25">
+        <tspan x="193" dy="1.2em">51610 views</tspan>
+        <tspan x="193" dy="1.2em">74040 downloads</tspan>
+        <tspan x="193" dy="1.2em">1050 favorites</tspan>
+    </text>
+</svg>
