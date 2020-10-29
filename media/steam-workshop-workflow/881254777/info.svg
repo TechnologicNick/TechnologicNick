@@ -1,7 +1,7 @@
 <svg
-    width="NaN"
+    width="212"
     height="100"
-    viewBox="0 0 NaN 100"
+    viewBox="0 0 212 100"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
 >
@@ -21,7 +21,7 @@
     </text>
     <text x="15" y="25">
         <tspan x="15" dy="1.2em">373928 views</tspan>
-        <tspan x="15" dy="1.2em">393509 downloads</tspan>
+        <tspan x="15" dy="1.2em">393510 downloads</tspan>
         <tspan x="15" dy="1.2em">6515 favorites</tspan>
     </text>
 </svg>
