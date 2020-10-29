@@ -16,14 +16,14 @@
         }
     </style>
 
-    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="https://steamuserimages-a.akamaihd.net/ugc/771726276477146053/7FB0CF04BCF67EEDE83DAE977F41E4EAD335227D/"/>
+    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="preview.png"/>
 
     <text x="185.5" y="0" class="title">
         <tspan x="185.5" dy="1.2em">The Modpack</tspan>
     </text>
     <text x="193" y="25">
         <tspan x="193" dy="1.2em">373908 views</tspan>
-        <tspan x="193" dy="1.2em">393478 downloads</tspan>
+        <tspan x="193" dy="1.2em">393480 downloads</tspan>
         <tspan x="193" dy="1.2em">6515 favorites</tspan>
     </text>
 </svg>

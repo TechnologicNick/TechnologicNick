@@ -16,14 +16,14 @@
         }
     </style>
 
-    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="https://steamuserimages-a.akamaihd.net/ugc/931562390052086513/30A965DEC8957B05877E7D89C59A02912C4F8F20/"/>
+    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="preview.png"/>
 
     <text x="185.5" y="0" class="title">
         <tspan x="185.5" dy="1.2em">WASD Converter</tspan>
     </text>
     <text x="193" y="25">
-        <tspan x="193" dy="1.2em">51610 views</tspan>
-        <tspan x="193" dy="1.2em">74040 downloads</tspan>
+        <tspan x="193" dy="1.2em">51611 views</tspan>
+        <tspan x="193" dy="1.2em">74041 downloads</tspan>
         <tspan x="193" dy="1.2em">1050 favorites</tspan>
     </text>
 </svg>

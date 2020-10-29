@@ -16,10 +16,10 @@
         }
     </style>
 
-    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="https://steamuserimages-a.akamaihd.net/ugc/959730415488141215/0923DCC49DF3F9EC0EFC4AEE78DDD70F3E6B9D8A/"/>
+    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="preview.png"/>
 
     <text x="185.5" y="0" class="title">
-        <tspan x="185.5" dy="1.2em">[0.3.5] Scrap Guard - Creation protector</tspan>
+        <tspan x="185.5" dy="1.2em">Scrap Guard</tspan>
     </text>
     <text x="193" y="25">
         <tspan x="193" dy="1.2em">19983 views</tspan>

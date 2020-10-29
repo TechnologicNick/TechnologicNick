@@ -16,14 +16,14 @@
         }
     </style>
 
-    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="https://steamuserimages-a.akamaihd.net/ugc/931562390045288550/AFB0BCBA159CE757CFB346264A1B2807B8018484/"/>
+    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="preview.png"/>
 
     <text x="185.5" y="0" class="title">
         <tspan x="185.5" dy="1.2em">Electromagnets</tspan>
     </text>
     <text x="193" y="25">
         <tspan x="193" dy="1.2em">31410 views</tspan>
-        <tspan x="193" dy="1.2em">46686 downloads</tspan>
+        <tspan x="193" dy="1.2em">46687 downloads</tspan>
         <tspan x="193" dy="1.2em">739 favorites</tspan>
     </text>
 </svg>
