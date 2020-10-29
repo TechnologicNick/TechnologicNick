@@ -16,14 +16,14 @@
         }
     </style>
 
-    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="preview.png"/>
+    <image x="0" y="0" width="178" height="100" preserveAspectRatio="xMidYMid meet" href="./preview.png"/>
 
     <text x="185.5" y="0" class="title">
         <tspan x="185.5" dy="1.2em">WASD Converter</tspan>
     </text>
     <text x="193" y="25">
         <tspan x="193" dy="1.2em">51611 views</tspan>
-        <tspan x="193" dy="1.2em">74041 downloads</tspan>
+        <tspan x="193" dy="1.2em">74042 downloads</tspan>
         <tspan x="193" dy="1.2em">1050 favorites</tspan>
     </text>
 </svg>
