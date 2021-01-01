@@ -7,7 +7,7 @@
 >
     <style>
         text {
-            fill: currentColor;
+            fill: black;
             font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
         }
 
@@ -15,13 +15,18 @@
             font-weight: 600;
         }
     </style>
+    <style media="prefers-color-scheme: dark">
+        text {
+            fill: white;
+        }
+    </style>
 
     <text x="5" y="0" class="title">
         <tspan x="5" dy="1.2em">Scrap Guard</tspan>
     </text>
     <text x="15" y="25">
-        <tspan x="15" dy="1.2em">20254 views</tspan>
-        <tspan x="15" dy="1.2em">19753 downloads</tspan>
+        <tspan x="15" dy="1.2em">20255 views</tspan>
+        <tspan x="15" dy="1.2em">19755 downloads</tspan>
         <tspan x="15" dy="1.2em">287 favorites</tspan>
     </text>
 </svg>
