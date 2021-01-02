@@ -7,7 +7,7 @@
 >
     <style>
         text {
-            fill: black;
+            fill: #808080;
             font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
         }
 
@@ -15,18 +15,13 @@
             font-weight: 600;
         }
     </style>
-    <style media="prefers-color-scheme: dark">
-        text {
-            fill: white;
-        }
-    </style>
 
     <text x="5" y="0" class="title">
         <tspan x="5" dy="1.2em">The Modpack</tspan>
     </text>
     <text x="15" y="25">
-        <tspan x="15" dy="1.2em">385934 views</tspan>
-        <tspan x="15" dy="1.2em">409275 downloads</tspan>
+        <tspan x="15" dy="1.2em">385940 views</tspan>
+        <tspan x="15" dy="1.2em">409278 downloads</tspan>
         <tspan x="15" dy="1.2em">6838 favorites</tspan>
     </text>
 </svg>
