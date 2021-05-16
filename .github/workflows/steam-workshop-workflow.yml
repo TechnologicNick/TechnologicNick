@@ -10,6 +10,7 @@ jobs:
   update-readme-with-steam-workshop:
     name: Update a README with information about Steam Workshop items
     runs-on: windows-latest
+    timeout-minutes: 5
     steps:
     - uses: actions/checkout@v2
     - name: Update Steam Workshop item statistics
