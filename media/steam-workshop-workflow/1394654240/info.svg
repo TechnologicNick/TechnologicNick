@@ -17,11 +17,11 @@
     </style>
 
     <text x="5" y="0" class="title">
-        <tspan x="5" dy="1.2em">Electromagnets</tspan>
+        <tspan x="5" dy="1.2em"></tspan>
     </text>
     <text x="15" y="25">
-        <tspan x="15" dy="1.2em">33873 views</tspan>
-        <tspan x="15" dy="1.2em">53962 downloads</tspan>
-        <tspan x="15" dy="1.2em">880 favorites</tspan>
+        <tspan x="15" dy="1.2em"> views</tspan>
+        <tspan x="15" dy="1.2em"> downloads</tspan>
+        <tspan x="15" dy="1.2em"> favorites</tspan>
     </text>
 </svg>
