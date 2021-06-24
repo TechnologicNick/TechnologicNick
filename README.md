@@ -4,7 +4,7 @@ I primarely make Scrap Mechanic mods
 My Steam Workshop items (this display is WIP):
 <!-- WORKSHOP-SHOWCASE:START -->
 <div>
-        <a href="https://github.com/brentbatch/The-Modpack">
+        <a href="https://github.com/SMTheGuild/The-Modpack">
             <img src="media\steam-workshop-workflow\881254777\preview.png">
             <img src="media\steam-workshop-workflow\881254777\info.svg">
             <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=881254777">
