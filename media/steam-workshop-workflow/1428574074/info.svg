@@ -1,7 +1,7 @@
 <svg
-    width="200"
+    width="196"
     height="100"
-    viewBox="0 0 200 100"
+    viewBox="0 0 196 100"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
 >
@@ -20,7 +20,7 @@
         <tspan x="5" dy="1.2em">Camera Controls</tspan>
     </text>
     <text x="15" y="25">
-        <tspan x="15" dy="1.2em">38453 views</tspan>
+        <tspan x="15" dy="1.2em">38454 views</tspan>
         <tspan x="15" dy="1.2em">50620 downloads</tspan>
         <tspan x="15" dy="1.2em">830 favorites</tspan>
     </text>

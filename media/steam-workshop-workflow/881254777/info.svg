@@ -1,7 +1,7 @@
 <svg
-    width="200"
+    width="196"
     height="100"
-    viewBox="0 0 200 100"
+    viewBox="0 0 196 100"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
 >
@@ -20,8 +20,8 @@
         <tspan x="5" dy="1.2em">The Modpack</tspan>
     </text>
     <text x="15" y="25">
-        <tspan x="15" dy="1.2em">512978 views</tspan>
-        <tspan x="15" dy="1.2em">549996 downloads</tspan>
+        <tspan x="15" dy="1.2em">512989 views</tspan>
+        <tspan x="15" dy="1.2em">550010 downloads</tspan>
         <tspan x="15" dy="1.2em">9464 favorites</tspan>
     </text>
 </svg>
