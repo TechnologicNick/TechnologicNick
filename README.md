@@ -1,7 +1,7 @@
 ### Hello there
-I primarely make Scrap Mechanic mods
+I primarily make Scrap Mechanic mods
 
-My Steam Workshop items (this display is WIP):
+My Steam Workshop items:
 <!-- WORKSHOP-SHOWCASE:START -->
 <div>
         <a href="https://github.com/SMTheGuild/The-Modpack">
